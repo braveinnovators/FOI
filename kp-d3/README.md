@@ -20,8 +20,8 @@
 **NGO "Social Innovators" (non-profit status: 0032)**
 
 Visit our website: [awwwwesome.org](https://www.awwwwesome.org) <br>
-Follow us on Twitter: [twitter.com/s15ukraine](https://twitter.com/s15ukraine) <br>
-GitHub: [github.com/s15ukraine](https://github.com/s15ukraine)
+Follow us on Twitter: [twitter.com/wwwawwwwesome](https://twitter.com/wwwawwwwesome) <br>
+GitHub: [github.com/wwwawwwwesome](https://github.com/wwwawwwwesome)
 
 <br>
 
