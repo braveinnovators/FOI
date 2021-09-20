@@ -15,9 +15,15 @@
 - [Інтернет-цензура](internet-freedom/internet-censorship/README.md)
 
 
-<div style="display: block; margin: 100px 0 20px 0;">
-  <img src="assets/logo.png" alt="NGO Social Innovators">
+<br>
+<br>
+<br>
+
+<div>
+  <img src="../../assets/logo.png" alt="NGO Social Innovators">
 </div>
+
+<br>
 
 **NGO "Social Innovators" (non-profit status: 0032)**
 
