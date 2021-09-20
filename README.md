@@ -20,7 +20,7 @@
 <br>
 
 <div>
-  <img src="../../assets/logo.png" alt="NGO Social Innovators">
+  <img src="assets/logo.png" alt="NGO Social Innovators">
 </div>
 
 <br>
