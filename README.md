@@ -1,25 +1,26 @@
-<h2>Доступ до публічної інформації</h2>
+<h1>Доступ до публічної інформації</h1>
 
-<h4>Цифровізація, електронне урядування та електронна демократія</h4>
+<h3>Цифровізація, електронне урядування та електронна демократія</h3>
 
-- [Єдиний державний веб-портал електронних послуг «Портал Дія» (diia.gov.ua), застосунки «Дія» та «Дій вдома»](diia/README.md)
+- [Єдиний державний вебпортал електронних послуг diia.gov.ua (Портал Дія), мобільний додаток Порталу Дія (Дія)](diia/README.md)
+- [Застосунок «Вдома» (попередня назва: «Дій вдома»)](diia/vdoma/README.md)
 
-<h4>Суди</h4>
+<h3>Електронний суд</h3>
 
-- [Комп'ютерна програма «Д-3» (КП «Д-3»)](kp-d3/README.md)
+- [Єдина судова інформаційно-телекомунікаційна система (ЄСІТС)](court-ua/esits/README.md)
+- [Автоматизована система діловодства судів (АСДС)](court-ua/kp-d3/README.md)
 
-<br>
+<h3>Інше</h3>
 
----
+- [Інтернет-цензура](internet-freedom/internet-censorship/README.md)
+
+
+<div style="display: block; margin: 100px 0 20px 0;">
+  <img src="assets/logo.png" alt="NGO Social Innovators">
+</div>
 
 **NGO "Social Innovators" (non-profit status: 0032)**
 
 Visit our website: [awwwwesome.org](https://www.awwwwesome.org) <br>
 Follow us on Twitter: [twitter.com/wwwawwwwesome](https://twitter.com/wwwawwwwesome) <br>
 GitHub: [github.com/wwwawwwwesome](https://github.com/wwwawwwwesome)
-
-<br>
-
-© 2017-2021 NGO "Social Innovators" and individual contributors. Content is available under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-![Creative Commons License](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png "License CC BY-NC-SA")
