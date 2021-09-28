@@ -7,14 +7,18 @@
 <br>
 <br>
 
-<div>
-  <img src="../../assets/logo.png" alt="NGO Social Innovators">
-</div>
-
-<br>
-
-**NGO "Social Innovators" (non-profit status: 0032)**
-
-Visit our website: [awwwwesome.org](https://www.awwwwesome.org) <br>
-Follow us on Twitter: [twitter.com/wwwawwwwesome](https://twitter.com/wwwawwwwesome) <br>
-GitHub: [github.com/wwwawwwwesome](https://github.com/wwwawwwwesome)
+<table>
+   <tbody>
+      <tr>
+         <td width="95">
+          <img src="../../assets/logo.png" alt="NGO Social Innovators">
+         </td>
+         <td>
+          <b>NGO "Social Innovators" (non-profit status: 0032)</b> <br>
+          Visit our website: <a href="https://www.awwwwesome.org">awwwwesome.org</a> <br>
+          Follow us on Twitter: <a href="https://twitter.com/wwwawwwwesome">twitter.com/wwwawwwwesome</a> <br>
+          GitHub: <a href="https://github.com/wwwawwwwesome">github.com/wwwawwwwesome</a>
+         </td>
+      </tr>
+   </tbody>
+</table>
