@@ -1,3 +1,9 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 <h1>Доступ до публічної інформації</h1>
 
 <h3>Цифровізація, електронне урядування та електронна демократія</h3>
@@ -21,10 +27,10 @@
 <br>
 <br>
 
-<table border="0">
+<table>
    <tbody>
       <tr>
-         <td width="90">
+         <td width="95">
           <img src="assets/logo.png" alt="NGO Social Innovators">
          </td>
          <td>
