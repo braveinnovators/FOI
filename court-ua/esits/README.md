@@ -12,7 +12,6 @@
 
 <br>
 <br>
-<br>
 
 <div>
   <img src="../../assets/logo.png" alt="NGO Social Innovators">
