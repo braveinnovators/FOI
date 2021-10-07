@@ -29,8 +29,8 @@
          <td>
           <b>NGO "Social Innovators" (non-profit status: 0032)</b> <br>
           Visit our website: <a href="https://www.awwwwesome.org">awwwwesome.org</a> <br>
-          Follow us on Twitter: <a href="https://twitter.com/wwwawwwwesome">twitter.com/wwwawwwwesome</a> <br>
-          GitHub: <a href="https://github.com/wwwawwwwesome">github.com/wwwawwwwesome</a>
+          Follow us on Twitter: <a href="https://twitter.com/s15kyiv">twitter.com/s15kyiv</a> <br>
+          GitHub: <a href="https://github.com/s15kyiv">github.com/s15kyiv</a>
          </td>
       </tr>
    </tbody>
