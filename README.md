@@ -136,23 +136,3 @@
 <h3>Зміст оновлень</h3>
 
 - [версії 1.37.3–1.38.5](court-ua/kp-dss/9edbf320-5fb1-43ee-bc11-cf0cdc04d351.pdf)
-
-<br>
-<br>
-
-<table>
-   <tbody>
-      <tr>
-         <td width="95">
-          <img src="assets/logo.png" alt="NGO Social Innovators">
-         </td>
-         <td>
-          <b>NGO "Social Innovators" (non-profit status: 0032)</b> <br>
-          Visit our website: <a href="https://www.awwwwesome.org">awwwwesome.org</a> <br>
-          Follow us on Twitter: <a href="https://twitter.com/s15kyiv">twitter.com/s15kyiv</a> <br>
-          Facebook: <a href="https://facebook.com/s15kyiv">facebook.com/s15kyiv</a> <br>
-          GitHub: <a href="https://github.com/s15kyiv">github.com/s15kyiv</a>
-         </td>
-      </tr>
-   </tbody>
-</table>
